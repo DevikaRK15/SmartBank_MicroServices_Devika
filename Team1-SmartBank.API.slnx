@@ -1,0 +1,12 @@
+<Solution>
+  <Project Path="../../../OneDrive/Documents/Team1/SmartBankT.Transaction.API.csproj" />
+  <Project Path="../NgangamHaolai-Team1_Smart_Bank_API/Team1_SmartBank.API/SmartBank.Auth.API.csproj" />
+  <Project Path="../Team1-SmartBankMicroservice/SmartBankmanagementSystem/SmartBankApplicationSystem/SmartBankGateway/SmartBankGateway.csproj">
+    <BuildDependency Project="../../../OneDrive/Documents/Team1/SmartBankT.Transaction.API.csproj" />
+    <BuildDependency Project="../NgangamHaolai-Team1_Smart_Bank_API/Team1_SmartBank.API/SmartBank.Auth.API.csproj" />
+    <BuildDependency Project="SmartBank.Account.API/SmartBank.Account.API.csproj" />
+    <BuildDependency Project="Team1-SmartBank.API/SmartBank.Customer.API.csproj" />
+  </Project>
+  <Project Path="SmartBank.Account.API/SmartBank.Account.API.csproj" Id="dced1fd1-0432-4075-ad9d-e0ade33a85ba" />
+  <Project Path="Team1-SmartBank.API/SmartBank.Customer.API.csproj" />
+</Solution>
