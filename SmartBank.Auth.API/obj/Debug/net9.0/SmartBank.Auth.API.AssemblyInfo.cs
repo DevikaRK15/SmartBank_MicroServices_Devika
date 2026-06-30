@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SmartBank.Auth.API")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7599cb847439924ffcc4ecc6879d10a5aa722aaf")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b9dfd5918802a45378161d66979a51dc6cf57cf8")]
 [assembly: System.Reflection.AssemblyProductAttribute("SmartBank.Auth.API")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SmartBank.Auth.API")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

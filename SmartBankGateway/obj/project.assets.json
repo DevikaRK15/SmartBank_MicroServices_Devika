@@ -1,5 +1,5 @@
 {
-  "version": 3,
+  "version": 4,
   "targets": {
     "net9.0": {
       "FluentValidation/12.1.1": {
@@ -878,23 +878,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\wwwde\\.nuget\\packages\\": {},
+    "C:\\Users\\rkdevika\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\wwwde\\source\\repos\\Team1-SmartBankMicroservice\\SmartBankmanagementSystem\\SmartBankApplicationSystem\\SmartBankGateway\\SmartBankGateway.csproj",
+      "projectUniqueName": "C:\\Users\\rkdevika\\Documents\\SmartBank\\SmartBankGateway\\SmartBankGateway.csproj",
       "projectName": "SmartBankGateway",
-      "projectPath": "C:\\Users\\wwwde\\source\\repos\\Team1-SmartBankMicroservice\\SmartBankmanagementSystem\\SmartBankApplicationSystem\\SmartBankGateway\\SmartBankGateway.csproj",
-      "packagesPath": "C:\\Users\\wwwde\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\wwwde\\source\\repos\\Team1-SmartBankMicroservice\\SmartBankmanagementSystem\\SmartBankApplicationSystem\\SmartBankGateway\\obj\\",
+      "projectPath": "C:\\Users\\rkdevika\\Documents\\SmartBank\\SmartBankGateway\\SmartBankGateway.csproj",
+      "packagesPath": "C:\\Users\\rkdevika\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\rkdevika\\Documents\\SmartBank\\SmartBankGateway\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\wwwde\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\rkdevika\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -907,6 +907,7 @@
       },
       "frameworks": {
         "net9.0": {
+          "framework": "net9.0",
           "targetAlias": "net9.0",
           "projectReferences": {}
         }
@@ -921,10 +922,11 @@
         "auditLevel": "low",
         "auditMode": "direct"
       },
-      "SdkAnalysisLevel": "9.0.300"
+      "SdkAnalysisLevel": "10.0.300"
     },
     "frameworks": {
       "net9.0": {
+        "framework": "net9.0",
         "targetAlias": "net9.0",
         "dependencies": {
           "Microsoft.AspNetCore.Authentication.JwtBearer": {
@@ -959,7 +961,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.315/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.301/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

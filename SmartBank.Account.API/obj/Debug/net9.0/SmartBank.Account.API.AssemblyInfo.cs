@@ -15,7 +15,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SmartBank.Account.API")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1863e5cee1460ff0b64d7fe05166915bdcd09b3f")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b9dfd5918802a45378161d66979a51dc6cf57cf8")]
 [assembly: System.Reflection.AssemblyProductAttribute("SmartBank.Account.API")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SmartBank.Account.API")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

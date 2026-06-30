@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\wwwde\\Source\\Repos\\SmartBank_MicroServices_Devika\\SmartBank.Notification.Worker\\SmartBank.Notification.Worker.csproj": {}
+    "C:\\Users\\rkdevika\\Documents\\SmartBank\\SmartBank.Notification.Worker\\SmartBank.Notification.Worker.csproj": {}
   },
   "projects": {
-    "C:\\Users\\wwwde\\Source\\Repos\\SmartBank_MicroServices_Devika\\SmartBank.Notification.Worker\\SmartBank.Notification.Worker.csproj": {
+    "C:\\Users\\rkdevika\\Documents\\SmartBank\\SmartBank.Notification.Worker\\SmartBank.Notification.Worker.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\wwwde\\Source\\Repos\\SmartBank_MicroServices_Devika\\SmartBank.Notification.Worker\\SmartBank.Notification.Worker.csproj",
+        "projectUniqueName": "C:\\Users\\rkdevika\\Documents\\SmartBank\\SmartBank.Notification.Worker\\SmartBank.Notification.Worker.csproj",
         "projectName": "SmartBank.Notification.Worker",
-        "projectPath": "C:\\Users\\wwwde\\Source\\Repos\\SmartBank_MicroServices_Devika\\SmartBank.Notification.Worker\\SmartBank.Notification.Worker.csproj",
-        "packagesPath": "C:\\Users\\wwwde\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\wwwde\\source\\repos\\SmartBank_MicroServices_Devika\\SmartBank.Notification.Worker\\obj\\",
+        "projectPath": "C:\\Users\\rkdevika\\Documents\\SmartBank\\SmartBank.Notification.Worker\\SmartBank.Notification.Worker.csproj",
+        "packagesPath": "C:\\Users\\rkdevika\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\rkdevika\\Documents\\SmartBank\\SmartBank.Notification.Worker\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\wwwde\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\rkdevika\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -30,6 +30,7 @@
         },
         "frameworks": {
           "net9.0": {
+            "framework": "net9.0",
             "targetAlias": "net9.0",
             "projectReferences": {}
           }
@@ -44,10 +45,11 @@
           "auditLevel": "low",
           "auditMode": "direct"
         },
-        "SdkAnalysisLevel": "9.0.300"
+        "SdkAnalysisLevel": "10.0.300"
       },
       "frameworks": {
         "net9.0": {
+          "framework": "net9.0",
           "targetAlias": "net9.0",
           "dependencies": {
             "Microsoft.Extensions.Hosting": {
@@ -79,7 +81,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.315/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.301/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

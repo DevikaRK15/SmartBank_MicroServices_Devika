@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SmartBankGateway")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5946b606e47f9228f52db4bf76b3bfbe2512d0cd")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b9dfd5918802a45378161d66979a51dc6cf57cf8")]
 [assembly: System.Reflection.AssemblyProductAttribute("SmartBankGateway")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SmartBankGateway")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
