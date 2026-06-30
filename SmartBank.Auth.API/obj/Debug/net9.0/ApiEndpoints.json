@@ -1,0 +1,34 @@
+[
+  {
+    "ContainingType": "Team1_SmartBank.API.Controllers.CustomerController",
+    "Method": "Login",
+    "RelativePath": "api/Customer/Login",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "dto",
+        "Type": "Team1_SmartBank.API.DTOs.LoginCustomerDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Team1_SmartBank.API.Controllers.CustomerController",
+    "Method": "Register",
+    "RelativePath": "api/Customer/Register",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "dto",
+        "Type": "Team1_SmartBank.API.DTOs.RegisterCustomerDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]
